@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* shere item start*/
+body{
+font-family: 'Merriweather', serif;
+}
+/* shere item end */
+.super-banner{
+    background-image: url('img/Vectorrr.png');
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.super-container{
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 , rgba(7, 2, 17, 0.00));
+    max-width: 1320px;
+    height: 600px;
+    margin:0 auto ;
+}
+.dolor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.super-banner-text *{
+    margin: 25px 0px 0px 0125px;
+}
+.dolor .super-banner-text h2{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 88px;
+}
+.dolor .super-banner-text p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.dolor .super-banner-text button{
+    background-color: black;
+    color: #FFF;
+    padding: 2px 2px;
+}
+.dolor .banner-img img{
+     width: 280px;
+}
